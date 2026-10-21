@@ -10,7 +10,7 @@ that dynamically adjusts its parameters based on:
 - Real-time performance metrics
 - Environmental conditions
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 3.0.0 (Fully Adaptive)
 """

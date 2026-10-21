@@ -6,7 +6,7 @@ Standalone LQR Parameter Tuning GUI
 A simplified version of the LQR parameter tuning GUI that works without ROS2
 for testing parameter configurations offline.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <description>Linear Quadratic Regulator (LQR) and Linear Quadratic Gaussian (LQG) controllers for F1TENTH autonomous racing with state estimation and GUI visualization.</description>
 
-    <maintainer email="mohammed@azab.io">Mohammed Azab</maintainer>
+    <maintainer email="m.3zab@outlook.com">Mohammed Azab</maintainer>
     <license>MIT</license>
 
     <!-- Build dependencies -->

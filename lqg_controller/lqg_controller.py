@@ -12,7 +12,7 @@ The LQG controller provides optimal control under uncertainty by:
 - Feeding the estimated state to the LQR controller for optimal control computation
 - Maintaining separation principle: estimation and control can be designed independently
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

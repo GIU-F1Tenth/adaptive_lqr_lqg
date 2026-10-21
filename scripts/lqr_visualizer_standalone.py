@@ -7,7 +7,7 @@ This script provides a standalone visualization tool for testing the LQR control
 without requiring a full ROS2 setup. It generates synthetic data to demonstrate
 the visualization capabilities.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

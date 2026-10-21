@@ -257,7 +257,7 @@ MIT License - See LICENSE file for details.
 
 ## Author
 
-Mohammed Azab <mohammed@azab.io>
+Mohammed Azab <m.3zab@outlook.com>
 
 ## Contributing
 

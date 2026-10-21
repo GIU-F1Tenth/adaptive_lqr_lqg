@@ -23,7 +23,7 @@ setup(
     install_requires=['setuptools', 'numpy', 'scipy', 'pyyaml', 'matplotlib'],
     zip_safe=True,
     maintainer='Mohammed Azab',
-    maintainer_email='mohammed@azab.io',
+    maintainer_email='m.3zab@outlook.com',
     description='Linear Quadratic Regulator (LQR) and Linear Quadratic Gaussian (LQG) controllers for F1TENTH autonomous racing with state estimation and GUI visualization.',
     license='MIT',
     tests_require=['pytest', 'pytest-cov'],

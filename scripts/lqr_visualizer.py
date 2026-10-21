@@ -6,7 +6,7 @@ LQR Controller GUI Visualizer
 This script provides a comprehensive real-time visualization tool for the LQR controller,
 displaying vehicle state, reference trajectory, control inputs, and performance metrics.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

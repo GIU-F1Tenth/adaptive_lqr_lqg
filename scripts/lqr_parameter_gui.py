@@ -7,7 +7,7 @@ Real-time parameter adjustment interface for F1TENTH LQR controller.
 Allows fine-tuning of Q and R matrices, control limits, and other parameters
 while the vehicle is running in simulation or on the physical car.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

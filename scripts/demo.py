@@ -6,7 +6,7 @@ LQR Controller Visualizer Demo Script
 This script demonstrates how to use the LQR visualizer programmatically
 and shows various features and capabilities.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

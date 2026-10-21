@@ -16,7 +16,7 @@ Key Features:
 - Comprehensive diagnostics and performance monitoring
 - Safety monitoring and emergency stop capabilities
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

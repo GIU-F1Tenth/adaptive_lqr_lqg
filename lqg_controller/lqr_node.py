@@ -7,7 +7,7 @@ This ROS2 node implements a fully adaptive Linear Quadratic Regulator (LQR) cont
 that automatically adjusts its parameters based on vehicle state, trajectory characteristics,
 and real-time performance metrics.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 3.0.0 (Fully Adaptive)
 """

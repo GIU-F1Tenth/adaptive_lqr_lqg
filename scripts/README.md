@@ -218,7 +218,7 @@ MIT License - See main project LICENSE file for details.
 
 ## Author
 
-Mohammed Azab <mohammed@azab.io>
+Mohammed Azab <m.3zab@outlook.com>
 
 ## Version History
 

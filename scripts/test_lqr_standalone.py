@@ -5,7 +5,7 @@ Test script for LQR Controller
 
 Simple standalone test to verify LQR controller functionality without ROS2.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 """
 

@@ -11,7 +11,7 @@ The EKF handles:
 - Multiple sensor fusion (IMU angular velocity, odometry linear velocity, optional position updates)
 - Adaptive noise covariance based on driving conditions
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

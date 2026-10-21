@@ -13,7 +13,7 @@ The visualizer shows:
 4. Kalman filter health and innovation analysis
 5. Real-time performance metrics
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

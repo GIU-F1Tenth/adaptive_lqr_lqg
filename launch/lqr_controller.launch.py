@@ -5,7 +5,7 @@ Launch file for LQR Controller
 
 This launch file starts the LQR controller node with configurable parameters.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 """
 

@@ -5,12 +5,12 @@ This package provides a fully adaptive Linear Quadratic Regulator (LQR) controll
 for F1TENTH autonomous racing with real-time parameter tuning, safety monitoring,
 and anti-wobble features.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 3.0.0
 """
 
 __version__ = "3.0.0"
 __author__ = "Mohammed Azab"
-__email__ = "mohammed@azab.io"
+__email__ = "m.3zab@outlook.com"
 __license__ = "MIT"

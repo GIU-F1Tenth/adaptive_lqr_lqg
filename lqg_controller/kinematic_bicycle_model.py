@@ -6,7 +6,7 @@ Kinematic Bicycle Model for LQR Controller
 This module implements the kinematic bicycle model dynamics and linearization
 for use with Linear Quadratic Regulator (LQR) control.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 Version: 1.0.0
 """

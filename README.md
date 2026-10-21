@@ -78,7 +78,7 @@ For detailed visualizer documentation, see `scripts/README.md`.
 
 ## Author
 
-Mohammed Azab <mohammed@azab.io>
+Mohammed Azab <m.3zab@outlook.com>
 
 ## License
 

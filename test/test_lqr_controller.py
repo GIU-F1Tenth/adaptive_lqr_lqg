@@ -5,7 +5,7 @@ Unit tests for LQR Controller
 
 Tests the core functionality of the LQR controller implementation.
 
-Author: Mohammed Azab <mohammed@azab.io>
+Author: Mohammed Azab <m.3zab@outlook.com>
 License: MIT
 """
 
